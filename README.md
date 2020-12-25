@@ -8,3 +8,5 @@ Well what can I say
 3) Create a new .py file.
 4) In this one we write the code.
 5) Run.
+
+Or just download the CODE.py file and run it with your editor.
