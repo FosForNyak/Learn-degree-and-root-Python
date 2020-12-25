@@ -9,4 +9,4 @@ Well what can I say
 4) In this one we write the code.
 5) Run.
 
-Or just download the CODE.py file and run it with your editor.
+Or just any other run the given code :/
